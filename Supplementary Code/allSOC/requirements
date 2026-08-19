@@ -1,0 +1,22 @@
+python>=3.13.4
+pycharm>=2025.1.1.1
+numpy>=2.2.5
+pandas>=2.3.2
+sklearn>=1.7.2
+matplotlib>=3.10.5
+seaborn>=0.13.2
+shap>=0.48.0
+streamlit>=1.50.0
+joblib>=1.5.1
+catboost>=1.2.8
+plotly>=6.3.0
+pip>=25.2
+
+
+Coding language: Python
+Coding tool: PyCharm
+
+
+All the python code, app packages, COMSOL model, and Ansys Fluent files can be obtained from the author's public repository: https://github.com/JJJ069/predictor
+
+Thermal Battery Designer web app URL: https://thermalbatterydesigner.streamlit.app/.      If the app is asleep, please click “Yes, get this app back up!”
