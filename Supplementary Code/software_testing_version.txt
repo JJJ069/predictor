@@ -1,0 +1,4 @@
+python==3.13.4
+pycharm==2025.1.1.1
+
+The app is visualised interactively using the open-source Python library: Streamlit
