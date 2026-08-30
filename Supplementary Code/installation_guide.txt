@@ -1,0 +1,5 @@
+Python can be downloaded from its official website: https://www.python.org/
+
+PyCharm can be downloaded from its official website: https://www.jetbrains.com/zh-cn/pycharm/
+
+All libraries can be installed via pip in PyCharm

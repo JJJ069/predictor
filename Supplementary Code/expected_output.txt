@@ -1,0 +1,7 @@
+Recommended: Shell-and-tube heat exchanger
+
+Predicted power density: 25.82 ± 3.4% kW/m3
+
+Calculated SOC: 129.1 kWh/m3
+
+The output figures also include Figs. 2–4 from the Article File, and Figs. S3–26 from the Supplementary Information.

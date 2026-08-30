@@ -1,0 +1,12 @@
+Processor: 12th Gen Intel(R) Core(TM) i7-12700KF (3.60 GHz)
+
+CPU: 12th Gen Intel(R) Core(TM) i7-12700KF
+
+GPU: NVIDIA T400 4GB
+
+RAM: 32.0 GB
+
+
+
+
+
